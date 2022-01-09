@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-uuid",
+  "version": "1.0.0",
+  "description": "3 ways to generate UUID in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geshan/nodejs-uuid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geshan/nodejs-uuid/issues"
+  },
+  "homepage": "https://github.com/geshan/nodejs-uuid#readme"
+}
